@@ -4,9 +4,7 @@
 <Head>
 <h1> THE EIFFEL TOWER</h1>
 
-<p> My dream is none other than <em> The most beautiful city in the world</em> <strong> PARIS </strong> </p>
-
-<li> <bold> My favourite thing about <em>Paris </em> </bold> </li>
+<p><em> Paris,</em> <strong>FRANCE</strong> </p>
 
 <figure>
 <Img src="https://image.shutterstock.com/image-photo/paris-best-destinations-europe-260nw-125112029.jpg">
